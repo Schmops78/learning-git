@@ -6,4 +6,7 @@
 * 'git commit' - commits changes to the file
 * 'git diff' - shows differences between file version
 * 'git log' - Shows history of changes in the repositiory file
+* 'git push <remote> <branch>'
+* 'git pull <remote> <branch>'
+Forking a Repository: Create a complete copy of an exisiting Github repository to enable collaboration or stealing from your mum
 
